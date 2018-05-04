@@ -1,0 +1,16 @@
+{
+    "host": "52.170.150.175",
+    "username": "zurve-dev",
+    "password": "Zurv3_development",
+    "remotePath": "/home/zurve-dev/notebooks/vates/",
+    "protocol": "sftp",
+    "port": 0,
+    "fileNameEncoding": "utf8",
+    "autoUpload": true,
+    "autoDelete": false,
+    "autoDownload": false,
+    "ignore": [
+        ".git",
+        "/.vscode"
+    ]
+}
